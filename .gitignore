@@ -21,3 +21,11 @@ env/
 inspect_data.py
 inspect_march2026.py
 test_notebook_logic.py
+inspect_w04.py
+
+# Generated output data files (not committed to git)
+work/outputs/*.csv
+work/outputs/*.parquet
+flyrank-search-capstone/work/outputs/*.csv
+flyrank-search-capstone/work/outputs/*.parquet
+
