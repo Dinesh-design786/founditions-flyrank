@@ -1,0 +1,23 @@
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# DuckDB / Local DB files
+*.duckdb
+*.duckdb.wal
+
+# Environment Variables & Tokens
+.env
+.env.*
+
+# Scratch inspection scripts (keep repo clean)
+inspect_data.py
+inspect_march2026.py
+test_notebook_logic.py
